@@ -2,7 +2,7 @@
 
 A program written in `PowerShell`.
 
-[Chinese README 中文说明]()
+[Chinese README 中文说明](https://github.com/zsr-lukezhang/DisplayTime/blob/main/Guidelines/README_zh_CN.md)
 
 ## What can it do?
 
