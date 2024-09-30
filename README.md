@@ -35,7 +35,7 @@ If there are errors, ignore them. That's normal. However, if it crashes, please 
 ## Beautification Guide
 
 Use `MicaForEveryone` to add rules as shown in the picture.  
-!MicaForEveryone
+![Mica For Everyone](https://github.com/user-attachments/assets/91dcf9a7-70cf-4399-a284-cded5fe4358a)
 
 Change the code's `$iconPath = "C:\Users\Luke\OneDrive - Loading\Pictures\Win11UI\Program.ico"` to another path to customize the icon. If you keep this setting, note that it will display a blank file icon.
 

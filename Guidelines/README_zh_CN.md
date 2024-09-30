@@ -33,7 +33,7 @@
 ## 美化指南
 
 使用`MicaForEveryone`添加如图所示的规则。  
-![MicaForEveryone]()
+![Mica For Everyone](https://github.com/user-attachments/assets/b67f8601-bae7-4634-8ff5-e526802b429c)
 
 更改代码中的`$iconPath = "C:\Users\Luke\OneDrive - Loading\Pictures\Win11UI\Program.ico"`为其他路径来自定义图标。如果保持此设置，请注意，会显示空白文件的图标。
 
